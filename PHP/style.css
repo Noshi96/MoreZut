@@ -1,0 +1,185 @@
+
+body{
+
+ background-image: url("czarne.png");
+}
+
+#box{width:100%;
+height:100%;
+margin:0 auto;
+font-size:20px;
+}
+
+#naglowek{
+
+border-width: 1px;
+border-style: solid;
+height:100px;
+ background-image: url("owoce2.jpg");
+ 
+ background-color:grey;
+text-align:center;
+
+}
+
+#menu{
+
+text-align:center;
+height:250px;
+width:20%;
+float:left;
+/*
+border-width: 1px;
+border-style: solid;
+border-top: #000000;
+border-bottom:  #000000;
+
+*/
+}
+
+ul#dolewej{
+	padding-left:0px;
+}
+
+li#news{
+	
+list-style-type:none;
+padding-left:10px;
+padding-top:10px;
+width:86%;
+height:30px;
+background-color:#ffc34d;
+margin-top:2px;
+text-align:left;
+
+border-color:grey;
+border-width:3px;
+border-style:solid;
+
+border-top:#000000;
+border-left:#000000;
+
+}
+
+
+
+
+ul li#news:hover{
+border-color:white;
+}
+
+a:link{
+color:#00000f;
+font-size:20px;
+text-decoration:none;
+
+}
+
+a:visited{
+
+color:#800000;
+}
+
+a:hover{
+color:#ff00ff;
+
+}
+
+
+a:active{
+
+color:#00ffff;
+}
+
+
+
+#tresc{
+margin-top:20px;
+text-align:left;
+height:420px;
+width:55%;
+float:left;
+background-color:#ffc34d;
+margin-bottom:10px;
+
+}
+
+#log{
+	width:270px;
+	height:100px;
+	align:center;
+	margin-top:10px;
+	margin-left:20px;
+}
+
+#str_g{
+	margin-top:70px;
+	text-align:center;
+	font-size:40px;
+	font-weight: bold;
+}
+
+
+#tekst_lewo{
+	margin-left:20px;
+	
+}
+#srodek{
+	text-align:center;
+}
+#srodek2{
+	align:center;
+}
+
+#menu3{
+	
+	padding-top:5px;
+	padding-left:5px;
+	margin-left:5px;
+	magin-top:5px;
+	
+}
+
+#menu2{
+	margin-top:20px;
+border-width:1px;
+border-style:solid;
+border-top:#000000;
+border-bottom:#000000;
+text-align:left;
+height:250px;
+width:23%;
+float:right;
+background-color:#ffc34d;
+
+}
+
+
+
+#error{
+	font-size:14px;
+	position:absolute;
+	margin-left:10px;
+	color:red;
+	
+}
+
+#stopka{
+	background-color:grey;
+border:1px solid black;
+text-align:center;
+clear:both;
+height:40px;
+}
+
+table, th, td{
+	border:1px solid black;
+}
+
+
+
+
+
+
+
+
